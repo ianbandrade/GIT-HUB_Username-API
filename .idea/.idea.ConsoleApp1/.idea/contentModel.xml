@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ian.bittencourt\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ian.bittencourt\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_ConsoleApp1.-210751882.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ian.bittencourt\Desktop\Projects\ConsoleApp1" t="IncludeFlat">
+      <e p="ConsoleApp1.sln" t="IncludeFlat" />
+      <e p="GitHubUsernameAPI" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="GitHubUsernameAPI.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="GitHubUsernameAPI.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
